@@ -1,0 +1,31 @@
+_repo: Anecdotes-of-Painters-Engravers-Sculptors-and-Architects-and-Curiosities-of-Art--Vol.-3-of-3-_18383
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spooner, Shearjashub
+    alias: Spooner, S. (Shearjashub)
+    birthdate: 1809
+    deathdate: 1859
+    gutenberg_agent_id: '7989'
+    url: http://www.gutenberg.org/2009/agents/7989
+    wikipedia: http://en.wikipedia.org/wiki/Shearjashub_Spooner
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2006-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artists -- Anecdotes'
+- !lcsh 'Art -- Anecdotes'
+- !lcc 'N'
+title: Anecdotes of Painters, Engravers, Sculptors and Architects and Curiosities
+  of Art (Vol. 3 of 3)
+url: http://www.gutenberg.org/ebooks/18383
